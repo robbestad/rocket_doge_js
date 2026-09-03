@@ -1,0 +1,16 @@
+{
+  "style": "2D cartoon, thick outline, cel-shaded, chroma-keyed #00FF55",
+  "sprites": {
+    "player.png": { "use": "walk", "frames": 8, "fps": 10 },
+    "player-fly.png": { "use": "thrust", "frames": 8, "fps": 12 },
+    "crab.png": { "use": "ground enemy walk", "frames": 8, "fps": 8 },
+    "bluejay.png": { "use": "air enemy flap", "frames": 8, "fps": 12 },
+    "roboskull.png": { "use": "dash enemy" },
+    "meteor.png": { "use": "falling enemy" },
+    "balloon-cat.png": { "use": "bobbing enemy" },
+    "spike-mine.png": { "use": "pulse mine" },
+    "ufo.png": { "use": "tracking enemy" },
+    "coin.png": { "use": "pickup" },
+    "fuel.png": { "use": "boost pickup" }
+  }
+}

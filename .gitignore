@@ -1,0 +1,10 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vite
+.venv
+.playwright-mcp
+.tmp-frames
+__pycache__/
+*.pyc
