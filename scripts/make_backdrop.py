@@ -2,15 +2,13 @@
 """Build a looping hills strip and a periodic ground tile."""
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-IMG = Path(
-    ".imagine-src"
-    "/images"
-)
+IMG = Path(os.environ.get("IMAGINE_IMG", ROOT / ".imagine-src"))
 OUT = ROOT / "public" / "media"
 
 

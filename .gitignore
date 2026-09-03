@@ -4,7 +4,9 @@ dist
 *.log
 .vite
 .venv
+.idea
 .playwright-mcp
 .tmp-frames
+.imagine-src
 __pycache__/
 *.pyc

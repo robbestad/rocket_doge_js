@@ -5,11 +5,6 @@
   "type": "module",
   "description": "Hold to fly. Dodge crabs, birds, and worse. Much wow.",
   "license": "MIT",
-  "author": {
-    "name": "Sven Anders Robbestad",
-    "email": "",
-    "url": ""
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/robbestad/rocket_doge_js.git"
