@@ -6,6 +6,10 @@ This document broadly follows [Keep a Changelog](https://keepachangelog.com/). D
 
 ## [Unreleased]
 
+### Added
+
+- Production deploy on Vercel at [rocket-doge.vercel.app](https://rocket-doge.vercel.app).
+
 ## [1.0.0] – 2026-09-03
 
 A full rewrite of the 2014 ImpactJS runner into a 2026 web game. The playable path no longer uses Impact, Grunt, Bower, jQuery, or Facebook.

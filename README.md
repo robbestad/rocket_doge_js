@@ -8,7 +8,7 @@
 
 A 2026 rewrite of the 2014 endless runner: Doge with a jetpack, rolling hills, and a sky full of trouble. Tap, click, or hold space. The rocket does the rest.
 
-[Play locally](#run-it) · Upgraded from the 2014 ImpactJS original · UI built with [SvenJS 3.2.1](https://svenjs.xyz/)
+[Play it](https://rocket-doge.vercel.app) · [Play locally](#run-it) · Upgraded from the 2014 ImpactJS original · UI built with [SvenJS 3.2.1](https://svenjs.xyz/)
 
 ## Why you will keep tapping
 

@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/robbestad/rocket_doge_js.git"
   },
-  "homepage": "https://github.com/robbestad/rocket_doge_js",
+  "homepage": "https://rocket-doge.vercel.app",
   "bugs": {
     "url": "https://github.com/robbestad/rocket_doge_js/issues"
   },

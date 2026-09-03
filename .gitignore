@@ -5,6 +5,8 @@ dist
 .vite
 .venv
 .idea
+.vercel
+.env*
 .playwright-mcp
 .tmp-frames
 .imagine-src
