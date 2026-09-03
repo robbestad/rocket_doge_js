@@ -1,6 +1,6 @@
 # Changelog
 
-All notable Rocket Doge changes, reconstructed from the Git history starting with the first commit.
+All notable Rocket Doge changes, reconstructed from Git history.
 
 This document broadly follows [Keep a Changelog](https://keepachangelog.com/). Dates and versions prefixed with `v` come from Git tags.
 
@@ -9,6 +9,10 @@ This document broadly follows [Keep a Changelog](https://keepachangelog.com/). D
 ### Added
 
 - Production deploy on Vercel at [rocket-doge.vercel.app](https://rocket-doge.vercel.app).
+
+### Removed
+
+- Unused 2014 ImpactJS tree from the repository and git history. Playable sprites and SFX already live under `public/media`.
 
 ## [1.0.0] – 2026-09-03
 
@@ -43,16 +47,8 @@ A full rewrite of the 2014 ImpactJS runner into a 2026 web game. The playable pa
 
 ## [Unversioned changes] – 2018-07-13
 
-This period contains commits but no published version boundary in Git history. The playable game was still the 2014 ImpactJS build (`package.json` `0.1.0`).
-
-### Added
-
-- `c4949bd` **first commit** — the original Rocket Doge tree: ImpactJS 1.23, entities (player, crab, bluejay, roboskulls, coins, clouds), scenes, Weltmeister, Grunt/Bower bake, and media.
-
-### Changed
-
-- `f0522f0` **Larger** — a small `index.html` tweak.
+The GitHub repo first appeared in 2018 with the 2014 ImpactJS build (`package.json` `0.1.0`). Those commits were later dropped from this history when the unused 2014 sources were purged.
 
 ## [0.1.0] – 2014
 
-The original iOS/web release on ImpactJS. Not tagged in this Git history (the repo begins in 2018).
+The original iOS/web release on ImpactJS. Not tagged in this Git history.
